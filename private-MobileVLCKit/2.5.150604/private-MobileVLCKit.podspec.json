@@ -16,7 +16,9 @@
         "vendored_frameworks": "build/MobileVLCKit.framework"
     },
     "platforms": {
-        "ios": "5.1.1"
+        "ios": "5.1.1",
+		"tvos": "9.0"
+		
     },
     "frameworks": [
         "QuartzCore",
